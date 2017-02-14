@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Vansers/codon.svg?branch=master)](https://travis-ci.org/Vansers/codon)
+
 The MIT License
 
 Copyright (c) 2011 Nabeel Shahzad <https://github.com/nshahzad/codon>
